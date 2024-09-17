@@ -1,0 +1,14 @@
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\bin\Debug\net6.0\Gyakorlat20240912.exe
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\bin\Debug\net6.0\Gyakorlat20240912.deps.json
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\bin\Debug\net6.0\Gyakorlat20240912.runtimeconfig.json
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\bin\Debug\net6.0\Gyakorlat20240912.dll
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\bin\Debug\net6.0\Gyakorlat20240912.pdb
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.AssemblyInfoInputs.cache
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.AssemblyInfo.cs
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.csproj.CoreCompileInputs.cache
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.dll
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\refint\Gyakorlat20240912.dll
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.pdb
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\Gyakorlat20240912.genruntimeconfig.cache
+C:\Users\szabo.johanna\Desktop\Új mappa\Gyakorlat20240912\Gyakorlat20240912\obj\Debug\net6.0\ref\Gyakorlat20240912.dll
